@@ -3,7 +3,6 @@
 This is my solution to the [What the flexbox](https://flexbox.io). This tutorial helped me learn Flexbox the right way, and it also changed how I align items when I make project. 
 ## Table of contents
 
-- [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
