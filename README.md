@@ -14,7 +14,7 @@ This is my solution to the [What the flexbox](https://flexbox.io). This tutorial
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments and source](#acknowledgments-and-source)
-  - [Huge thanks to Wes Bos for creating  this free tutorial. And thanks to you for checking out my repository.](#huge-thanks-to-wes-bos-for-creating--this-free-tutorial-and-thanks-to-you-for-checking-out-my-repository)
+ 
 
 ## Overview
 
@@ -101,6 +101,6 @@ I am planning on making my own little webisite, so be tuned in for that. I will 
 ## Acknowledgments and source
 
 Huge thanks to [Wes Bos](https://wesbos.com) for creating  this free tutorial. And thanks to you for checking out my repository. 
-------------------------------- 
+
 And HAPPY CODING!🎆🍙🍕🧨🧶🧶🛒👓 
                                                                 
