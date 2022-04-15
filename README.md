@@ -1,9 +1,13 @@
-# Wes Bos's - What the flexbox
+# What the flexbox
 
-This is my solution to the [What the flexbox](https://flexbox.io). This tutorial helped me learn Flexbox the right way, and it also changed how I align items when I make project. 
+This is my solution to the [What the flexbox](https://flexbox.io). This tutorial helped me learn Flexbox the right way, and it also changed how I align items.
+
 ## Table of contents
 
+<<<<<<< HEAD
 - [Wes Bos's - What the flexbox](#wes-boss---what-the-flexbox)
+=======
+>>>>>>> 7cc632a0cddbcc2598e7e6f80a35dbd2622c985d
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Some information](#some-information)
