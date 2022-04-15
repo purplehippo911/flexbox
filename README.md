@@ -4,11 +4,6 @@ This is my solution to the [What the flexbox](https://flexbox.io). This tutorial
 
 ## Table of contents
 
-<<<<<<< HEAD
-- [Wes Bos's - What the flexbox](#wes-boss---what-the-flexbox)
-=======
->>>>>>> 7cc632a0cddbcc2598e7e6f80a35dbd2622c985d
-  - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Some information](#some-information)
     - [Examples on what you will make](#examples-on-what-you-will-make)
