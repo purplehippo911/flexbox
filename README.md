@@ -3,24 +3,24 @@
 This is my solution to the [What the flexbox](https://flexbox.io). This tutorial helped me learn Flexbox the right way, and it also changed how I align items when I make project. 
 ## Table of contents
 
-- [Frontend Mentor - Interactive rating component solution](#frontend-mentor---interactive-rating-component-solution)
+- [Wes Bos's - What the flexbox](#wes-boss---what-the-flexbox)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
+    - [Some information](#some-information)
+    - [Examples on what you will make](#examples-on-what-you-will-make)
+    - [Link](#link)
   - [My process](#my-process)
-    - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+  - [Acknowledgments and source](#acknowledgments-and-source)
+  - [Huge thanks to Wes Bos for creating  this free tutorial. And thanks to you for checking out my repository.](#huge-thanks-to-wes-bos-for-creating--this-free-tutorial-and-thanks-to-you-for-checking-out-my-repository)
 
 ## Overview
 
 ### Some information
-The first 13 videos are aimed at understanding the fundamentals of Flexbox, like understanding rows, columns, axes, wrapping centering and etc. The last 7 are coding tutorials which you can follow along. In the last 7 you will make things like a mobile app layout, a form, a pricing girrid and much more. 
+The first 13 videos are aimed at understanding the fundamentals of Flexbox, like understanding rows, columns, axes, wrapping centering and etc. The last 7 are coding tutorials which you can follow along. In the last 7 you will make things like a mobile app layout, a form, a pricing grid and much more. I only hosted the last 7, because the others are just there for practice. 
 
 ### Examples on what you will make
 Mobile app layout:
