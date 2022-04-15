@@ -24,11 +24,11 @@ The first 13 videos are aimed at understanding the fundamentals of Flexbox, like
 ### Examples on what I made
 Mobile app layout:
 
-![Desktop](screenshot/appLayout.jpg)
+![Desktop](screenshots/appLayout.png)
 
 Pricing-grid:
 
-![Pricing-grid](screenshot/pricingGrid.jpg) 
+![Pricing-grid](screenshots/pricingGrid.png) 
 Form:
 
 ### Link
