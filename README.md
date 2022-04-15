@@ -21,14 +21,14 @@ This is my solution to the [What the flexbox](https://flexbox.io). This tutorial
 ### Some information
 The first 13 videos are aimed at understanding the fundamentals of Flexbox, like understanding rows, columns, axes, wrapping centering and etc. The last 7 are coding tutorials which you can follow along. In the last 7 you will make things like a mobile app layout, a form, a pricing grid and much more. I only hosted the last 7, because the others are just there for practice. 
 
-### Examples on what you will make
+### Examples on what I made
 Mobile app layout:
 
-![Desktop](.design/screenshot.jpg)
+![Desktop](screenshot/appLayout.jpg)
 
 Pricing-grid:
 
-![Pricing-grid](.design/screenshot.jpg) 
+![Pricing-grid](screenshot/pricingGrid.jpg) 
 Form:
 
 ### Link
