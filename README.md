@@ -1,17 +1,13 @@
-# What the flexbox
+# Grid
 
-This is my solution to the [What the flexbox](https://flexbox.io). This tutorial helped me learn Flexbox the right way, and it also changed how I align items.
+This is my solution to the [CSS Grid](https://https://cssgrid.io/). This tutorial helped me learn Grid the right way, and it also changed how I align multiple items.
 
 ## Table of contents
 
-<<<<<<< HEAD
-- [Wes Bos's - What the flexbox](#wes-boss---what-the-flexbox)
-=======
->>>>>>> 7cc632a0cddbcc2598e7e6f80a35dbd2622c985d
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Some information](#some-information)
-    - [Examples on what you will make](#examples-on-what-you-will-make)
+    - [Examples on what I made](#examples-on-what-I-made)
     - [Link](#link)
   - [My process](#my-process)
     - [What I learned](#what-i-learned)
@@ -23,79 +19,29 @@ This is my solution to the [What the flexbox](https://flexbox.io). This tutorial
 
 ## Overview
 
-### Some information
-The first 13 videos are aimed at understanding the fundamentals of Flexbox, like understanding rows, columns, axes, wrapping centering and etc. The last 7 are coding tutorials which you can follow along. In the last 7 you will make things like a mobile app layout, a form, a pricing grid and much more. I only hosted the last 7, because the others are just there for practice. 
+### Examples on what I made
+Responsive website layout:
 
-### Examples on what you will make
-Mobile app layout:
 
-![Desktop](.design/screenshot.jpg)
+Image Gallery:
 
-Pricing-grid:
+![Dekstop](screenshots/tacoSite.png) 
 
-![Pricing-grid](.design/screenshot.jpg) 
-Form:
 
 ### Link
 
-- Live Site URL: [My live site](https://purplehippo911.github.io/flexbox/)
+- Live Site URL: [My live site](https://purplehippo911.github.io/grid/)
 
-## My process
 
 ### What I learned
-I learned how to align content and items, and I and how to make your site a bit more responsive. I learned about axes, columns,rows, orders and much more. 
-
-```html
-        <div class="plan plan1">
-        <h2>Cat</h2>
-        <p>Common, yet regarded by many as the worst house pet.</p>
-        <ul class="features">
-          <li>Scratches everything</li>
-          <li>Easily lost for days</li>
-          <li>Kind of a bummer</li>
-        </ul>
-        <p class="price">free</p>
-        <a href="#" class="cta">😾 Really?</a>
-      </div>
-        ......
-       <div>
-    ```
-
-```css
-  .app-wrap {
-    display:flex;
-    flex-direction:column;
-   }
-
-  .app-wrap > * {
-  flex:1 1 auto;
-  }
-
-  .content {
-    overflow-y:scroll;
-    -webkit-overflow-scrolling:touch;
-   }
-
-  .app-header {
-    display:flex;
-    align-items:center;
-    justify-content: space-around;
-   }
-
-   .icon-bar {
-     display:flex;
-    }
-    .icon-bar a {
-     flex:1;
-    }
-```
+I learned how to align multiple items using CSS Grid. 
 
 ### Continued development
-I am planning on making my own little webisite, so be tuned in for that. I will also try to get more comfortable with flexbox (and JS), but after that I'm planning on learning Grid and probably react.   
+I am planning on making my own little website. I will also try to get more comfortable with grid and try to recap on my JS with challenges from [frontend mentor](https://frontendmentor.io) 
 
 ### Useful resources
 
-- [CSS tricks](https://www.youtube.com/watch?v=TAB_v6yBXIE&t=436s&ab_channel=KevinPowell) - This is an extra resource which has a downloadable cheatsheet for flexbox, which is good for recap.  
+- [CSS tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - This is an extra resource which has a downloadable cheatsheet for grid, which is good for recap.  
  
 ## Author
 

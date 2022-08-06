@@ -16,9 +16,13 @@ body {
     justify-content:center;
 }
 
+.hero {
+    padding:2rem;
+}
+
 .wrapper {
-    width:clamp(32rem,100%, 140rem);
-    height:100%;
+    width:80%;
+    margin:0 auto;
     border:10px solid green;
     display:flex;
     align-items:center;
@@ -27,7 +31,6 @@ body {
  .boxes {
     width:clamp(37rem, 100%, 140rem);
     height:100%;
-    border:10px solid red;
 }
 
 
