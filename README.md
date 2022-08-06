@@ -4,7 +4,10 @@ This is my solution to the [CSS Grid](https://https://cssgrid.io/). This tutoria
 
 ## Table of contents
 
+<<<<<<< HEAD
   - [Table of contents](#table-of-contents)
+=======
+>>>>>>> eb32239d487e279b31c73d0159dd7d008c6b6056
   - [Overview](#overview)
     - [Some information](#some-information)
     - [Examples on what I made](#examples-on-what-I-made)
@@ -15,18 +18,30 @@ This is my solution to the [CSS Grid](https://https://cssgrid.io/). This tutoria
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments and source](#acknowledgments-and-source)
-  - [Huge thanks to Wes Bos for creating  this free tutorial. And thanks to you for checking out my repository.](#huge-thanks-to-wes-bos-for-creating--this-free-tutorial-and-thanks-to-you-for-checking-out-my-repository)
+ 
 
 ## Overview
 
 ### Examples on what I made
 Responsive website layout:
 
+<<<<<<< HEAD
 
 Image Gallery:
+=======
+### Examples on what I made
+Mobile app layout:
+
+![Desktop](screenshots/appLayout.png)
+>>>>>>> eb32239d487e279b31c73d0159dd7d008c6b6056
 
 ![Dekstop](screenshots/tacoSite.png) 
 
+<<<<<<< HEAD
+=======
+![Pricing-grid](screenshots/pricingGrid.png) 
+Form:
+>>>>>>> eb32239d487e279b31c73d0159dd7d008c6b6056
 
 ### Link
 
@@ -52,6 +67,6 @@ I am planning on making my own little website. I will also try to get more comfo
 ## Acknowledgments and source
 
 Huge thanks to [Wes Bos](https://wesbos.com) for creating  this free tutorial. And thanks to you for checking out my repository. 
-------------------------------- 
+
 And HAPPY CODING!🎆🍙🍕🧨🧶🧶🛒👓 
                                                                 
