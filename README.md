@@ -1,6 +1,6 @@
-# Grid
+# Flexbox
 
-This is my solution to the [CSS Grid](https://https://cssgrid.io/). This tutorial helped me learn Grid the right way, and it also changed how I align multiple items.
+This is my solution to this [Flexbox tutorial](https://flexbox.io/). This tutorial helped me learn Flexbox the right way, and it also changed how I align multiple items.
 
 ## Table of contents
 
@@ -36,18 +36,18 @@ Mobile app layout:
 
 ### Link
 
-- Live Site URL: [My live site](https://purplehippo911.github.io/grid/)
+- Live Site URL: [My live site](https://purplehippo911.github.io/flexbox/)
 
 
-### What I learned
-I learned how to align multiple items using CSS Grid. 
+### What I learne
+I learned how to align multiple items using Flexbox. 
 
 ### Continued development
 I am planning on making my own little website. I will also try to get more comfortable with grid and try to recap on my JS with challenges from [frontend mentor](https://frontendmentor.io) 
 
 ### Useful resources
 
-- [CSS tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - This is an extra resource which has a downloadable cheatsheet for grid, which is good for recap.  
+- [CSS tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an extra resource which has a downloadable cheatsheet for flex, which is good for recap.  
  
 ## Author
 
